@@ -79,7 +79,7 @@ The closest option provided is **24,648,499**, which corresponds to the known to
 
 # Question 4
 
-Rows are for the Green Taxi data for all CSV files in the year 2020.
+Rows for the Green Taxi data for all CSV files in the year 2020.
 
 First, we trigger the Backfill executions on the "green_schedule" trigger within our "05_postgres_taxi_scheduled" flow:
 
